@@ -1,1 +1,1 @@
-# CG-program
+# Deep Learning project
